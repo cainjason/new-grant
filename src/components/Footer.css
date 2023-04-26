@@ -1,0 +1,10 @@
+.footer{
+    background: linear-gradient(to top right, #cdb72b, #907395,
+    #aeafbd, #907395);
+    line-height: 35px;
+    padding: 1rem;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    justify-content: space-evenly;
+}
